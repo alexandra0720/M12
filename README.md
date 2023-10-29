@@ -35,5 +35,3 @@ En el mundo de las redes informáticas, las direcciones IP desempeñan un papel 
 - Además, puedes utilizar comandos como `ifconfig`, `ip`, `nmcli` y `systemctl` para administrar y configurar la red en sistemas Linux.
 
 Es importante comprender estos conceptos y configuraciones para administrar eficazmente una red y asegurarse de que los dispositivos se comuniquen correctamente.
-
-aea
